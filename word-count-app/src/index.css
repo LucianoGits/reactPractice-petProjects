@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;1,300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+body {
+     padding: 0;
+     margin: 0;
+     font-family: 'Roboto', sans-serif;
+     text-align: center;
+}
+h1 {
+     font-family: 'Fredoka One', cursive;
+}
+.text-area {
+     width: 70vw;
+     height: 50vh;
+     font-size: 1.5rem;
+}
